@@ -1,7 +1,0 @@
-## commit
-
-## branches
-
-## margin
-
-## stashing
