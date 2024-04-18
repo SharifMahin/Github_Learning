@@ -46,3 +46,11 @@ code Readme.md
 ```sh
 git push
 ```
+
+## branches
+
+to see branches
+
+```
+git branch
+```
